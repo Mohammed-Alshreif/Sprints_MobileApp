@@ -1,5 +1,5 @@
-#Make a function that gets the minimum value of a list of numbers
-##Requirement 1
+# Make a function that gets the minimum value of a list of numbers
+## Requirement 1
 
 Title: Get the minimum value of a list of numbers
 Description: Add the list of integer numbers 
