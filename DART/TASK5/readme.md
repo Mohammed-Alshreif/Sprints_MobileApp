@@ -1,9 +1,9 @@
 
-#Create a BankAccount class to withdraw or deposit amount of money
+# Create a BankAccount class to withdraw or deposit amount of money
 
  
 
-##Requirement 1
+## Requirement 1
 
 Title: Create BankAccount class 
 Description: Create a BankAccount class with two variables account and balance
@@ -19,7 +19,7 @@ Make deposit method : add the amount to the balance.
 Make displayAccountInfo method : prints the account ID and the current balance.
  
 
-##Requirement 2
+## Requirement 2
 
 Title: Main function 
 Description: enter both constructors, then
