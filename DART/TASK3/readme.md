@@ -1,7 +1,7 @@
-#Check any number positive or negative and even or odd 
+# Check any number positive or negative and even or odd 
  
 
-##Requirement 1
+## Requirement 1
 
 Title: Check any number positive or negative and even or odd
 Description: Enter any integer number
