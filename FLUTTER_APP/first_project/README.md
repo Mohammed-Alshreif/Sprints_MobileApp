@@ -4,7 +4,7 @@ This is a simple Flutter project that displays an interface with two images insi
 
 ## Description
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/first_project/Screen.jpg)
 - **AppBar**: Contains the title "My First Project" with custom text styling and background color.
 - **Body**: 
   - A `Row` widget that displays two images inside `Container` widgets with a background color.
