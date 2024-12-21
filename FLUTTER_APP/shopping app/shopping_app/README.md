@@ -15,7 +15,7 @@ The **Shopping App** is a Flutter application that allows users to browse items 
 4. **ListView**: A scrollable list containing 5 offer items with icons and text descriptions.
 
 ## Screen
-![Image Alt Text](assets/images/item1.png)
+![Image Alt Text](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/shopping%20app/shopping_app/screen.jpg)
 
 ### Prerequisites
 Ensure that you have the following tools installed:
