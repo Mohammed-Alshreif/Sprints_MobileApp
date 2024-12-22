@@ -1,16 +1,28 @@
-# signup_page
+# Flutter User Registration & Login App
 
-A new Flutter project.
+This Flutter app allows users to register and login using their email, full name, and password. It also includes a feature for confirming the password and toggling password visibility. Upon successful registration, a dialog is displayed and the user is navigated to a second page.
 
-## Getting Started
+## Features:
+- User registration form with fields for full name, email, password, and confirm password.
+- Validation for email and password fields.
+- Toggle password visibility for better user experience.
+- Alert dialog showing a success message upon successful registration.
+- Navigation to a second page after successful registration.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Video Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Watch the demo video here:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Demo Video](https://via.placeholder.com/400x200?text=Demo+Video)](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/signup_page/V.mp4)
+
+## Installation
+
+### Prerequisites:
+- Flutter SDK
+- A connected device (emulator or physical device)
+
+### Steps to run the project:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/flutter-registration-login-app.git
