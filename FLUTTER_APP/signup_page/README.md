@@ -14,7 +14,7 @@ This Flutter app allows users to register and login using their email, full name
 
 Watch the demo video here:
 
-[![Demo Video](https://via.placeholder.com/400x200?text=Demo+Video)](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/signup_page/V.mp4)
+[![Demo Video](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/signup_page/screen.jpg)](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/signup_page/V.mp4)
 
 ## Installation
 
