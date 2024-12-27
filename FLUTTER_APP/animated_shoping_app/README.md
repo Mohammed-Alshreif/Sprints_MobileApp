@@ -1,12 +1,14 @@
 # animated_shoping_app 
 ## Requirement 1:
 
+![Image Alt Text](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/animated_shoping_app/s1.jpg)
 Title: add animation to your app
 Description: add an animation after clicking the close button in the dialog after signing up successfully that makes the sign up page fade out 
 and the shopping page fades in.
 
 ## Requirement 2:
 
+![Image Alt Text](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/animated_shoping_app/s2.jpg)
 Title: Add Arabic language to your app
 Description: in this task, you are asked tod change the titles , and the sections of the shopping page like ""our products"" , ""hot offers"" and the up page 
 content using localization.
