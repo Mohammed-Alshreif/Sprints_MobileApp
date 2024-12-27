@@ -1,0 +1,10 @@
+{
+    
+    "shopping_app_title": "Shopping App",
+    "hot_offers": "Hot offers",
+    "product": "Product{$index}",
+    "item_added_to_cart": "Item {$index} added to the cart",
+    "add_to_cart": "Add to Cart"
+    
+      
+}
