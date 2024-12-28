@@ -4,7 +4,7 @@ Create a mobile application for tourists visiting Egypt to explore landmarks, mu
 
 ## Video Demonstration
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/tourist_guide_app_for_egypt/screen.jpg)](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/tourist_guide_app_for_egypt/video.mp4)
 
 
 ## Signup Page:
