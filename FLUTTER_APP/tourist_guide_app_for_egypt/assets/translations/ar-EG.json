@@ -1,0 +1,7 @@
+{
+    "shopping_app_title": "تطبيق التسوق",
+    "hot_offers": "عروض مميزة",
+    "product": "{$index}المنتج",
+    "item_added_to_cart": "تمت إضافة العنصر {$index} إلى السلة",
+    "add_to_cart": "أضف إلى السلة"
+}
