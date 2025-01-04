@@ -3,6 +3,10 @@
 Develop a User Profile Management with advanced features to manage user data.
 The app will have multiple functionalities like creating, fetching, updating, and deleting user profiles.
 The project will also include caching, error handling, and responsive UI.
+## Video Demonstration
+
+[![Watch the video](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/userprofile/screen.jpg)](https://github.com/Mohammed-Alshreif/Sprints_MobileApp/blob/main/FLUTTER_APP/userprofile/video.mp4)
+
 
 ## Task 1:
 
