@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "133233248323",
+    "project_id": "iot-firebase-de1ed",
+    "storage_bucket": "iot-firebase-de1ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133233248323:android:5cde323c3e6f7853c1ecf6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133233248323-50u5i4tej95gq89lcsd28b58nu5eljs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAlmTwY7yOc05MKtjB8g_bHpIwU0F_v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133233248323-50u5i4tej95gq89lcsd28b58nu5eljs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133233248323:android:354d45593fc83c03c1ecf6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133233248323-50u5i4tej95gq89lcsd28b58nu5eljs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAlmTwY7yOc05MKtjB8g_bHpIwU0F_v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133233248323-50u5i4tej95gq89lcsd28b58nu5eljs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
